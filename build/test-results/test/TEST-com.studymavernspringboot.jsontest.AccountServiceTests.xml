@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.studymavernspringboot.jsontest.AccountServiceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-25T03:26:08" hostname="3-6" time="0.004">
+  <properties/>
+  <testcase name="depositTest()" classname="com.studymavernspringboot.jsontest.AccountServiceTests" time="0.002"/>
+  <testcase name="addAccountTest()" classname="com.studymavernspringboot.jsontest.AccountServiceTests" time="0.0"/>
+  <testcase name="withdrawTest()" classname="com.studymavernspringboot.jsontest.AccountServiceTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

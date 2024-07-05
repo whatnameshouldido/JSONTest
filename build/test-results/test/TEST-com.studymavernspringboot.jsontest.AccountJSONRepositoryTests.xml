@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.studymavernspringboot.jsontest.AccountJSONRepositoryTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-25T03:26:08" hostname="3-6" time="0.071">
+  <properties/>
+  <testcase name="JsonToObjectTest()" classname="com.studymavernspringboot.jsontest.AccountJSONRepositoryTests" time="0.066"/>
+  <testcase name="ObjectToJsonTest()" classname="com.studymavernspringboot.jsontest.AccountJSONRepositoryTests" time="0.001"/>
+  <testcase name="checkSizeOfArrayFromJSonString()" classname="com.studymavernspringboot.jsontest.AccountJSONRepositoryTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
